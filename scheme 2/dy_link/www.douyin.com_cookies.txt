@@ -1,0 +1,65 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.douyin.com	TRUE	/	TRUE	1815701794	enter_pc_once	1
+.douyin.com	TRUE	/	TRUE	1812093601	UIFID_TEMP	b684c79658e5909c916769b2e80c406ed39ea89d6c7cce823581f3f595501a34b49daf80044f734226fbee67edd0d8f7952fcc60f1da4257d947da3f28e489688c34fa814f9d406fa0a1b2d31299626b
+www.douyin.com	FALSE	/	FALSE	1782717601	s_v_web_id	verify_mol5m155_MjqfrJkW_w88Y_4qfo_AAY5_WvuRTQ3G9sEK
+.douyin.com	TRUE	/	FALSE	1815701797	hevc_supported	true
+www.douyin.com	FALSE	/	TRUE	1812093602	fpk1	U2FsdGVkX19Sg794SFOMTtI9W7KbcqKS1gFeVwJp0sKZzfGBohCYAg9EMqNdTDcDRPD8cD29BUSu8z/1ItBVcw==
+www.douyin.com	FALSE	/	TRUE	1812093602	fpk2	b87543ecbc0ba610d9f06f9f2c432a46
+.douyin.com	TRUE	/	TRUE	1782717603	passport_csrf_token	9790ce099faa8b4d351ff1ed22f7dae2
+.douyin.com	TRUE	/	FALSE	1782717603	passport_csrf_token_default	9790ce099faa8b4d351ff1ed22f7dae2
+www.douyin.com	FALSE	/	TRUE	1812093603	UIFID	b684c79658e5909c916769b2e80c406ed39ea89d6c7cce823581f3f595501a34ed68ba2e18408c9c7522715139b5e6e94aa921e04020681dfc94bb3868c7d180eb97d9758b745c3e858e3e2b8af9d18bb54155c52055adf4c7f5f7714f87f909b118c71dac09905fea29e151f38e7b75ee594a7c463b56812546d30b60435b359f0b070badf52001c43406ccacc91212a275fd7e214387651cec256f1867b9e8
+.douyin.com	TRUE	/	FALSE	1786325797	bd_ticket_guard_client_web_domain	2
+.douyin.com	TRUE	/	FALSE	1810177902	d_ticket	002ed7655f5657455e921a1b751339ee965cd
+.douyin.com	TRUE	/	TRUE	1783825902	passport_mfa_token	CjWa3x%2F5PWpGFTE%2B79Hj6U2%2FPuU%2F4%2BMNaThqn4OrfvxOkNkt2mj%2F3y4rLPQCj3kkyPdtdTGG9RpKCjwAAAAAAAAAAAAAUGpkjYYdJ12jtlZJ%2BJZcYgunHHfNPZ7BtMMq6PHMmaRQbwXO1S4dsfa%2FOjahPCtGBzYQwKmRDhj2sdFsIAIiAQNQpzQS
+.douyin.com	TRUE	/	TRUE	1813201903	passport_assist_user	Cj18BxtJpghlzPaQPOLhhAycxBU5xywfrOce1-yGpvWoFe4_DMbms_8-rlpKTboRdNJqGk_zoLCUr0sd3L8QGkoKPAAAAAAAAAAAAABQatHmNTGhZvizp0Hy6ZUUObu3q-749bPHUB3ajq1NRnGNCrq3Io6su_H-GfXFuQvOmxD4qZEOGImv1lQgASIBA1AjiEE%3D
+.douyin.com	TRUE	/	FALSE	1789009903	n_mh	B0hRR5N2bDfX3jR0kXcXurw45MPmF1rvrDAf6_kP0GQ
+.douyin.com	TRUE	/	FALSE	1781233903	passport_auth_status	58b4bf2dec15711d47d5be2ffb155fe4%2C
+.douyin.com	TRUE	/	TRUE	1781233903	passport_auth_status_ss	58b4bf2dec15711d47d5be2ffb155fe4%2C
+.douyin.com	TRUE	/	TRUE	1809745903	sid_guard	32789c32f048c37469af9a56cd3570d8%7C1778641904%7C5183999%7CSun%2C+12-Jul-2026+03%3A11%3A43+GMT
+.douyin.com	TRUE	/	TRUE	1783825902	uid_tt	2eebfdb4676cb253cec4d003c1ae1a0d
+.douyin.com	TRUE	/	TRUE	1783825902	uid_tt_ss	2eebfdb4676cb253cec4d003c1ae1a0d
+.douyin.com	TRUE	/	TRUE	1783825902	sid_tt	32789c32f048c37469af9a56cd3570d8
+.douyin.com	TRUE	/	TRUE	1783825902	sessionid	32789c32f048c37469af9a56cd3570d8
+.douyin.com	TRUE	/	TRUE	1783825902	sessionid_ss	32789c32f048c37469af9a56cd3570d8
+.douyin.com	TRUE	/	TRUE	1783825902	session_tlb_tag	sttt%7C12%7CMnicMvBIw3Rpr5pWzTVw2P________-moYpVJMHCvNtayXA-6IdGHAXcbwvwgCbQO_IJungY1ks%3D
+.douyin.com	TRUE	/	TRUE	1783825902	is_staff_user	false
+.douyin.com	TRUE	/	TRUE	1783825902	has_biz_token	false
+.douyin.com	TRUE	/	TRUE	1783825902	sid_ucp_v1	1.0.0-KDY5YzQxMmJiMDBmNjk3NzQwN2IwZmQ2ZmZjMmFlNDQ1MzQ0YWFmYzQKHwjk9ZupnAMQ8NeP0AYY7zEgDDDToKHiBTgCQPEHSAQaAmxxIiAzMjc4OWMzMmYwNDhjMzc0NjlhZjlhNTZjZDM1NzBkOA
+.douyin.com	TRUE	/	TRUE	1783825902	ssid_ucp_v1	1.0.0-KDY5YzQxMmJiMDBmNjk3NzQwN2IwZmQ2ZmZjMmFlNDQ1MzQ0YWFmYzQKHwjk9ZupnAMQ8NeP0AYY7zEgDDDToKHiBTgCQPEHSAQaAmxxIiAzMjc4OWMzMmYwNDhjMzc0NjlhZjlhNTZjZDM1NzBkOA
+.douyin.com	TRUE	/	FALSE	1785746065	_bd_ticket_crypt_cookie	4b5cbf43dd4dce2a9121e2d996dd9310
+.douyin.com	TRUE	/	FALSE	1783825903	__security_server_data_status	1
+.douyin.com	TRUE	/	FALSE	1813201903	login_time	1778641903332
+.douyin.com	TRUE	/	FALSE	1813201976	my_rd	2
+www.douyin.com	FALSE	/	FALSE	1781746596	dy_swidth	2560
+www.douyin.com	FALSE	/	FALSE	1781746596	dy_sheight	1440
+.douyin.com	TRUE	/	FALSE	1781746600	is_dash_user	1
+.douyin.com	TRUE	/	FALSE	1812013058	__druidClientInfo	JTdCJTIyY2xpZW50V2lkdGglMjIlM0E2NTYlMkMlMjJjbGllbnRIZWlnaHQlMjIlM0ExNjc4JTJDJTIyd2lkdGglMjIlM0E2NTYlMkMlMjJoZWlnaHQlMjIlM0ExNjc4JTJDJTIyZGV2aWNlUGl4ZWxSYXRpbyUyMiUzQTEuMTI1JTJDJTIydXNlckFnZW50JTIyJTNBJTIyTW96aWxsYSUyRjUuMCUyMChXaW5kb3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTQ4LjAuMC4wJTIwU2FmYXJpJTJGNTM3LjM2JTIyJTdE
+.douyin.com	TRUE	/	FALSE	1781166854	strategyABtestKey	%221780562053.588%22
+.douyin.com	TRUE	/	TRUE	1812245793	ttwid	1%7Cr7csIAwRnwVW0H85f0kfff2KKjlhrtvH1Snq5l90V9w%7C1780562054%7C3c6b90305d35a3222afdb56c5186b7ee4457f6e9aeb40fda722fa0cb3a975080
+.douyin.com	TRUE	/	FALSE	1785746065	__security_mc_1_s_sdk_crypt_sdk	e353f0ec-44a5-beaa
+.douyin.com	TRUE	/	FALSE	1785746065	__security_mc_1_s_sdk_cert_key	2c925b0a-4bd7-b719
+.douyin.com	TRUE	/	FALSE	1785746065	__security_mc_1_s_sdk_sign_data_key_web_protect	610f5052-481b-b79b
+.douyin.com	TRUE	/	FALSE	1781166868	EnhanceDownloadGuide	%220_0_1_1780562068_0_0%22
+.douyin.com	TRUE	/	FALSE	1815212019	PhoneResumeUidCacheV1	%7B%22110681848548%22%3A%7B%22time%22%3A1780652018668%2C%22noClick%22%3A0%7D%7D
+.douyin.com	TRUE	/	FALSE	1781256832	playRecommendGuideTagCount	6
+.douyin.com	TRUE	/	FALSE	1781256832	totalRecommendGuideTagCount	6
+.douyin.com	TRUE	/	FALSE	1781256851	download_guide	%222%2F20260605%2F0%22
+www.douyin.com	FALSE	/	FALSE	1781143593	__ac_nonce	06a2a112100b661d6c172
+www.douyin.com	FALSE	/	TRUE	1812677793	__ac_signature	_02B4Z6wo00f01MduNpgAAIDASSNAr1Flf6jHTjIAAFv3b5
+www.douyin.com	FALSE	/	FALSE	0		douyin.com
+www.douyin.com	FALSE	/	FALSE	0	device_web_cpu_core	16
+www.douyin.com	FALSE	/	FALSE	0	device_web_memory_size	32
+www.douyin.com	FALSE	/	FALSE	0	architecture	amd64
+.douyin.com	TRUE	/	FALSE	0	is_support_rtm_web_ts	1
+.douyin.com	TRUE	/	FALSE	1781746597	IsDouyinActive	true
+.douyin.com	TRUE	/	FALSE	1781746597	stream_recommend_feed_params	%22%7B%5C%22cookie_enabled%5C%22%3Atrue%2C%5C%22screen_width%5C%22%3A2560%2C%5C%22screen_height%5C%22%3A1440%2C%5C%22browser_online%5C%22%3Atrue%2C%5C%22cpu_core_num%5C%22%3A16%2C%5C%22device_memory%5C%22%3A32%2C%5C%22downlink%5C%22%3A10%2C%5C%22effective_type%5C%22%3A%5C%224g%5C%22%2C%5C%22round_trip_time%5C%22%3A250%7D%22
+.douyin.com	TRUE	/	FALSE	1812677797	SelfTabRedDotControl	%5B%7B%22id%22%3A%227581574547527174144%22%2C%22u%22%3A36%2C%22c%22%3A36%7D%2C%7B%22id%22%3A%227487988287571757097%22%2C%22u%22%3A224%2C%22c%22%3A225%7D%5D
+.douyin.com	TRUE	/	FALSE	1781746597	FOLLOW_LIVE_POINT_INFO	%22MS4wLjABAAAAMhVu0F0OrptRkYfc2dDM-Rc6UZQX-6Rxo0LeMv3AMv8%2F1781193600000%2F0%2F1781141797236%2F0%22
+.douyin.com	TRUE	/	FALSE	1786325797	bd_ticket_guard_client_data	eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtcmVlLXB1YmxpYy1rZXkiOiJCUEtOenFZTGxpUGlXbmVSZmlheDJvclBwT0FDT2pmZ3Bsajhxa2YvWHRvQVRqQ0syQUlNZk4xQUwxYmxpNWFmdm9Uak1QR1RXaXBXcm81TUMyOUZrMXM9IiwiYmQtdGlja2V0LWd1YXJkLXdlYi12ZXJzaW9uIjoyfQ%3D%3D
+.douyin.com	TRUE	/	FALSE	1781746597	publish_badge_show_info	%220%2C0%2C0%2C1781141797423%22
+.douyin.com	TRUE	/	FALSE	1786325798	bd_ticket_guard_client_data_v2	eyJyZWVfcHVibGljX2tleSI6IkJQS056cVlMbGlQaVduZVJmaWF4Mm9yUHBPQUNPamZncGxqOHFrZi9YdG9BVGpDSzJBSU1mTjFBTDFibGk1YWZ2b1RqTVBHVFdpcFdybzVNQzI5Rmsxcz0iLCJ0c19zaWduIjoidHMuMi44OTYxZTBiZmZlZWFiNDg2YjY1Y2QyOWY2MTRhOTFhYjdmNmVhODcwZWY2ZDFlNjQxMGE3M2E5ODMxNDQzOWZlYzRmYmU4N2QyMzE5Y2YwNTMxODYyNGNlZGExNDkxMWNhNDA2ZGVkYmViZWRkYjJlMzBmY2U4ZDRmYTAyNTc1ZCIsInJlcV9jb250ZW50Ijoic2VjX3RzIiwicmVxX3NpZ24iOiJ5bW1yNUZJaDR3a1ZEaWMwUlowcW9iWWVxRDVCZi96RVNnblBINExHa3MwPSIsInNlY190cyI6IiN6V2ZKbXBQOWs5QVM3VnlOWEwyNjVodVF2RlVWcTUzQ1BBWHFIYUwrT05qM3V0cHcyOUxXN1BvQkYwYTcifQ%3D%3D
+.douyin.com	TRUE	/	FALSE	1781746598	home_can_add_dy_2_desktop	%221%22
+.douyin.com	TRUE	/	FALSE	1812677799	odin_tt	12d9ad4c04f0a258da9f0a4dec8226b2ff1b9ab8e54c3e4aba03164297cc5668f1a55c0fa9ca4ad47b0906518f99f81d0b9a8ec39bdfb0cef4424f6260cf1998c3de09e8d6f9a1aee0133fa09855c068
